@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.voicezdesk.space/sitemap.xml
+Sitemap: https://www.voicezdesk.store/sitemap.xml
