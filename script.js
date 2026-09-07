@@ -2,7 +2,7 @@ const demoContent = {
   answering: {
     label: "Call Answering",
     title: "Respond immediately with a professional AI voice greeting.",
-    text: "Voxdeskz answers the call, identifies the customer need, and moves the conversation into the right next step without leaving the caller waiting."
+    text: "Voicezdesk answers the call, identifies the customer need, and moves the conversation into the right next step without leaving the caller waiting."
   },
   booking: {
     label: "Appointment Booking",
@@ -12,7 +12,7 @@ const demoContent = {
   questions: {
     label: "Customer Questions",
     title: "Handle common questions without pulling staff away.",
-    text: "Voxdeskz can respond to routine business FAQs like hours, services, availability, and basic pricing information over the phone."
+    text: "Voicezdesk can respond to routine business FAQs like hours, services, availability, and basic pricing information over the phone."
   },
   afterhours: {
     label: "After Hours",
